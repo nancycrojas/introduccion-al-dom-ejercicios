@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.contenedor {
+    width: 400px;
+    height: 50px;
+    border: 2px solid black;
+    margin: 60px;
+}
+
+.progreso {
+    background-color: aqua;
+    height: 100%;
+}
